@@ -1,0 +1,10 @@
+
+
+******* CLUSTER 1 ***************
+1: /html[1]/body[1]/div[1]/div[1]/div[2]/span[1]
+2: /html[1]/body[1]/div[1]/div[1]/div[2]
+3: /html[1]/body[1]/div[1]/div[1]/div[2]/a[1]
+4: /html[1]/body[1]/div[1]/div[1]/div[2]/a[1]/img[1]
+
+
+Time required to run this test case = 60.644288814 sec
